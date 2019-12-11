@@ -1,0 +1,11 @@
+{
+	"name": "com.protas.unityml",
+	"version": "0.0.1",
+	"displayName": "Protas Unity ML",
+	"description": "Unity ML 0.12",
+	"unity": "2019.2",
+	"unityRelease": "3f1",
+	"dependencies": {
+		"com.unity.barracuda": "0.3.2-preview"
+	}
+}
