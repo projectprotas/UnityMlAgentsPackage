@@ -15,7 +15,7 @@ To use it, in the `\Packages\manifest.json`, add the `com.protas.unityml` depend
         }
     }
 
-You are required to have Python 3.6.X ([3.6.6](https://www.python.org/downloads/release/python-366/) recommended for consistency) installed due to compatibility issues. Python 3.5 or below and Pyhton 3.8 or greater do not work. Python 3.7 may work, but has not been fully tested.
+You are required to have Python 3.6.X ([3.6.6](https://www.python.org/downloads/release/python-366/) recommended for consistency in Protas Projects) installed due to compatibility issues. Python 3.5 or below and Pyhton 3.8 or greater do not work. Python 3.7 may work, but has not been fully tested.
 
 You are also required to install `ml-agents`
 
