@@ -23,7 +23,13 @@ You are also required to install `ml-agents`
 
 Installing mlagents will install **all** other python dependencies.
 
+This should result in `Protas Unity ML` being added to the packages section in the project explorer.
+
+![Image of Protas Unity ML](ProtasMlPackage.png)
+
 ## Additional Notes ##
+
+You do not need to add the `com.unity.barracuda` dependency as this package adds the correct version for you.
 
 Some of the meta files share the same GUID as the ones from the ml-agents repository as they have been copied out of there.
 
