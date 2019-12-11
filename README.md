@@ -25,7 +25,7 @@ Installing mlagents will install **all** other python dependencies.
 
 This should result in `Protas Unity ML` being added to the packages section in the project explorer.
 
-![Image of Protas Unity ML](ProtasMlPackage.png =263x398)
+<img src="ProtasMlPackage.png" data-canonical-src="ProtasMlPackage.png" width="263" height="398" />
 
 ## Additional Notes ##
 
